@@ -1,0 +1,51 @@
+
+/*geral*/
+.container-a {
+  background-color: #FFF0F5;
+  padding: 17%;
+}
+.H1{
+  text-align: center;
+
+}
+.formulario-login-geral {
+  text-align: center;
+ 
+}
+.formulario-cadastro-geral {
+  text-align: center;
+}
+
+#botao {
+  margin-left: 10%;
+  text-align: center;
+
+}
+
+/* login */
+
+.form-Email {
+ padding-bottom: 1%;
+}
+
+.form-Senha {
+  padding-bottom: 1%;
+
+}
+
+/*cadastro*/
+.formNome{
+  padding-bottom: 1%;
+}
+.formEmail{
+  padding-bottom: 1%;
+}
+.formSenha{
+  padding-bottom: 1%;
+
+}
+.formnrsec {
+  padding-bottom: 1%;
+
+}
+
